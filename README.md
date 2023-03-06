@@ -18,7 +18,8 @@
   - gcp のcloud build + cloud run で動かして開発していた。
 - [autotrader](https://github.com/msamunetogetoge/AutoTrader)
   - pythonで何か作ってみようと思って殆ど初めて作った。
-  - bitflyer のapiを使って、自動でbitcoinなどの取引が出来るアプリ。(ちゃんとしたアルゴリズムではないので使うのはお勧めできない。)
+  - bitflyer のapiを使って、自動でbitcoinなどの取引が出来るアプリ。(ちゃんとしたアルゴリズムではないので使うのはお勧めできない。)  
+ 
 ブログ  
 [マサムネの部屋](https://masamunetogetoge.com/)  
 統計解析や機械学習を勉強していたころに書いていたブログ。
