@@ -16,7 +16,9 @@
 - [doci](https://github.com/msamunetogetoge/doci)
   - 快適にドキュメント作成をしたい、rustで何か作りたい+vueを使う練習をしたいと思って作ったアプリ。育児休業が明けたらこのアプリでドキュメント作成してやろうと思っていたが、ui/uxを上手く作れなくて開発の手が止まった。機能はgrowi というアプリを参考にした。作ったドキュメントをzipでダウンロード出来るようにしたいと思っている。
   - gcp のcloud build + cloud run で動かして開発していた。
-
+- [autotrader](https://github.com/msamunetogetoge/AutoTrader)
+  - pythonで何か作ってみようと思って殆ど初めて作った。
+  - bitflyer のapiを使って、自動でbitcoinなどの取引が出来るアプリ。(ちゃんとしたアルゴリズムではないので使うのはお勧めできない。)
 ブログ  
 [マサムネの部屋](https://masamunetogetoge.com/)  
 統計解析や機械学習を勉強していたころに書いていたブログ。
